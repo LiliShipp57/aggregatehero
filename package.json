@@ -1,0 +1,27 @@
+{
+  "name": "aggregatehero",
+  "version": "1.0.0",
+  "description": "AggregateHero saves the day with totals. It offers dependable solutions for total calculation tasks, ensuring accuracy and efficiency in your operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "aggregatehero": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiliShipp57/aggregatehero.git"
+  },
+  "homepage": "https://github.com/LiliShipp57/aggregatehero/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "LiliShipp57",
+  "license": "MIT"
+}
